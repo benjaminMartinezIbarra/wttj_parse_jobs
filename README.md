@@ -39,3 +39,6 @@ Some potential improvements to the project include:
 
 - Adding support for multiple APIs to increase reliability and reduce the risk of rate limiting or downtime.
 - Adding multithreading to improve performance and reduce response time for multiple requests.
+- add streaming capabilities to file reading.
+
+## scaling
