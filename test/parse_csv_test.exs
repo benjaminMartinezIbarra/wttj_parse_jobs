@@ -1,6 +1,5 @@
 defmodule CountryJobsTest do
   use ExUnit.Case, async: false
-  import Mock
 
   test "calculates job counts per continent, no jobs" do
 
